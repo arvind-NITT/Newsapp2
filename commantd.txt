@@ -1,0 +1,10 @@
+
+first download nodejs
+create a new folder and open vs code in it
+press the following commands in terminal
+npm init
+npx create-react-app newapp
+npm i react-router-dom
+npm i react-infinite-scroll-component
+then replace public and src folder with the default folder created by react 
+npm start
